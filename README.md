@@ -1,2 +1,3 @@
 # hello-world
-stuff
+
+Just doing the hello world walkthrough 
